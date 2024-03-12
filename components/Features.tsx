@@ -12,14 +12,6 @@ const Features = () => {
           <p className="lg:w-2/3 text-slate-500 dark:text-slate-40 mx-auto leading-relaxed text-base mb-2">
             Meniatkan diri untuk berpuasa.
           </p>
-          <p className="mb-1">
-            نَوَيْتُ صَوْمَ غَدٍ عَنْ اَدَاءِ فَرْضِ شَهْرِ رَمَضَانَ هذِهِ
-            السَّنَةِ ِللهِ تَعَالَى
-          </p>
-          <p>
-            "Nawaitu shauma ghodin 'an adaa'i fardhi syahri romadhoona
-            hadihis-sanati lillahi ta'aalaa."
-          </p>
         </div>
         <div className="flex flex-wrap m-10">
           <div className="p-2 lg:w-1/3 md:w-1/2 w-full">
