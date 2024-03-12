@@ -11,10 +11,10 @@ export default function Home() {
         <title>Fakhri App</title>
       </head>
       <body>
-      <Header></Header>
-      <Features></Features>
-      <Lists></Lists>
-      <Footer></Footer>
+        <Header></Header>
+        <Features></Features>
+        <Lists></Lists>
+        <Footer></Footer>
       </body>
     </main>
   );
