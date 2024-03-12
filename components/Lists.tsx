@@ -38,7 +38,7 @@ const Lists = () => {
                 </a>
               </div>
             </div>
-            <div className="py-8 flex flex-wrap md:flex-nowrap mx-5">
+            <div className="py-8 flex flex-wrap md:flex-nowrap">
               <div className="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
                 <span className="font-semibold title-font text-gray-700 dark:text-slate-500">
                   CATEGORY
